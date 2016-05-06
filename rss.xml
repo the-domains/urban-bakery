@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[urban bakery]]></title>
         <description><![CDATA[urban bakery]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/urban-bakery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 10:53:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 May 2016 10:56:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/urban-bakery/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e399c44c-d793-4a46-8d36-2f23307c2f20.jpg">]]></description>
-            <link>undefinedurban-bakery/index.html</link>
+            <link>https://thegrid.ai/urban-bakery/urban-bakery/index.html</link>
             <guid isPermaLink="false">30b05cac-0e43-4f1a-b75a-38b7c53edeba</guid>
-            <pubDate>Fri, 06 May 2016 10:53:18 GMT</pubDate>
+            <pubDate>Fri, 06 May 2016 10:56:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
