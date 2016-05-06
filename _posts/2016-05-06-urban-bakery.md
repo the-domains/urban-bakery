@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Urban Bakery
-datePublished: '2016-05-06T10:53:18.107Z'
-dateModified: '2016-05-06T10:52:58.105Z'
+datePublished: '2016-05-06T10:56:11.102Z'
+dateModified: '2016-05-06T10:53:20.584Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-06-urban-bakery.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-06-urban-bakery.md
 url: urban-bakery/index.html
 _type: Article
 
