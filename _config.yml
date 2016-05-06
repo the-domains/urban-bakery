@@ -1,6 +1,6 @@
 name: urban bakery
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.57852
 typography_spectrum: 0.7792506418190897
 title: Rustic bakery in Low Fell
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#352b33'
-    - '#877062'
-    - '#a89186'
-    - '#ebebdf'
+    - '#fefefe'
+    - '#604933'
+    - '#a8aa9d'
+    - '#8d8573'
+    - '#020403'
   brandStrength: 0.5
-  lightness: 0.6875
-  saturation: 0.8125
+  lightness: 0.75
+  saturation: 0.125
   rhythmicContrast: 0.5
 purpose: []
