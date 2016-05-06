@@ -1,6 +1,6 @@
 name: urban bakery
 favicon: null
-layout_spectrum: 0.3993739327415824
+layout_spectrum: 1
 typography_spectrum: 0.7792506418190897
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.732062382157892
-  lightness: 0.17799608316272497
-  saturation: 0.42916695424355567
-  rhythmicContrast: 0.6855411794967949
+    - '#000000'
+    - '#352b33'
+    - '#877062'
+    - '#a89186'
+    - '#ebebdf'
+  brandStrength: 0.5
+  lightness: 0.6875
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
